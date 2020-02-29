@@ -26,8 +26,8 @@ public class ReviewTasks {
      * validate that places array has exactly the number of places
      **/
 
-    /** Task 5
-     * use a pojo for users
+   /* * Task 5
+     * use a pojo for *//**//*users
      * create a user request to https://gorest.co.in/public-api/users
      * send your pojo inside body of your post request
      * expect status 201
